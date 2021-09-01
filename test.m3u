@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0,|ES| MOVISTAR LA LIGA FHD
+https://s33.upstreamcdn.co/hls/w47rzicazrbnx2nroyjkywpyj2rozzeaogebolunwfgtt36rlwaipo4a7xwa/index-v1-a1.m3u8
+#EXTINF:0,|ES| MOVISTAR LA LIGA FHD
 http://trial.myinstanttv.com:8080/play/_6oI9G_7wN-AP3AplcWG3wfGxZZu6f4xkN4VvG862Ocg_PJvkkDYLAE7wZJhufDa/ts
 #EXTINF:0,|ES| MOVISTAR LA LIGA 1 FHD
 http://trial.myinstanttv.com:8080/play/_6oI9G_7wN-AP3AplcWG39sNGK9halaz1Sr78tPrvV6Rbe90ROBE5k862g6fPwml/ts
